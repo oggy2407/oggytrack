@@ -1,0 +1,6 @@
+{
+  "name": "oggytrack",
+  "description": "Your academics, perfectly on track. oggytrack helps college students organize timetables, track attendance, manage assignments, and stay on top of classes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
